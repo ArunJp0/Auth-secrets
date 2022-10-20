@@ -1,2 +1,0 @@
-# Auth-secrets
-Auth-secrets
